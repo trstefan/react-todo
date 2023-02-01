@@ -1,38 +1,29 @@
-trstefan.github.io/react-todo/
+# ToDo App - ReactJS
 
-# React To Do App
+## :link:	Live Demo 
 
-Minimalistic ToDo application built using React and React Hooks. 
+[Demo Link](https://trstefan.github.io/react-todo/)
 
-## Demo
+## 📷 Screenshot
 
-Here is a working live demo : [_trstefan.github.io/react-todo/_](trstefan.github.io/react-todo/)
+## 📝 Project Description
 
-## Screenshots
+Minimalistic ToDo application built using React and React Hooks.
 
-![Alternate image text](https://i.ibb.co/YDb0ZPV/ToDo.png)
+## 📚 Technologies
 
-
-
-
-## Built With
-
-- HTML
-- CSS
-- Javascript
 - ReactJS
-- React Hooks (useState) 
+- ReactHooks
+- CSS
 
-## Features
+## 🎯 Features
 
-- Add/remove ToDos
+- Add/remove ToDp
 - Clear ToDos list
-- Notes saved locally
 - Cross platform
 - Tablet & mobile friendly
 
-## Run locally 
-
+## :runner: Run Locally 
 Clone the project
 
 ```bash
@@ -56,3 +47,8 @@ Start the server
 ```bash
   npm run start
 ```
+
+
+## :star:	Acknowledgements
+
+ - [Frontend Mentor](https://www.frontendmentor.io/challenges)
