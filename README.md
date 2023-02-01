@@ -47,8 +47,3 @@ Start the server
 ```bash
   npm run start
 ```
-
-
-## :star:	Acknowledgements
-
- - [Frontend Mentor](https://www.frontendmentor.io/challenges)
